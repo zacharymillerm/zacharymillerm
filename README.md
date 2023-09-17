@@ -93,8 +93,6 @@
   &nbsp;&nbsp;
   <a href="https://t.me/ai_dev_master" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.gg/7VXaQtYGdV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://antero-me.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://zachary-miller-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </div>
